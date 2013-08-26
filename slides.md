@@ -59,7 +59,7 @@ Technische Spezifikation
 
 Umsetzung
 
-* Getestet
+* Getestet (manuell und automatisch)
 
 Bei PAIA: Spezifikation durch *VZG*, Implementierung jeweils durch *shiphrah GmbH*
 und *effective WEBWORK GmbH*.
